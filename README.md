@@ -1,5 +1,7 @@
 # calculator
 
+[<img src='/assets/images/Calculator.png' width='250' />]('/assets/images/Calculator.png')
+
 A new Flutter project.
 
 ## Getting Started
